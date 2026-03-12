@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 32" fill="none">
+  <rect width="32" height="32" rx="8" fill="#6C63FF"/>
+  <path d="M8 10h16M8 16h12M8 22h14" stroke="#fff" stroke-width="2.5" stroke-linecap="round"/>
+  <text x="40" y="22" font-family="DM Sans, sans-serif" font-size="16" font-weight="600" fill="#1A1A2E">UniShop</text>
+</svg>

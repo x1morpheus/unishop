@@ -1,0 +1,15 @@
+{
+  "name": "unishop",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "client": "cd client && npm run dev",
+    "server": "cd server && npm run dev",
+    "dev": "npm run server & npm run client",
+    "install:all": "npm install && cd client && npm install && cd ../server && npm install",
+    "seed": "cd server && node seed.js",
+    "seed:fresh": "cd server && node seed.js --fresh",
+    "seed:wipe": "cd server && node seed.js --wipe"
+  }
+}

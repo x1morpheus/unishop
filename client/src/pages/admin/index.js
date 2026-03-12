@@ -1,0 +1,9 @@
+export { default as AdminDashboard }   from "./AdminDashboard";
+export { default as AdminProducts }    from "./AdminProducts";
+export { default as AdminOrders }      from "./AdminOrders";
+export { default as AdminCustomers }   from "./AdminCustomers";
+export { default as AdminAnalytics }   from "./AdminAnalytics";
+export { default as AdminVendors }     from "./AdminVendors";
+export { default as AdminCategories }  from "./AdminCategories";
+export { default as AdminFlashSales }  from "./AdminFlashSales";
+export { default as AdminSettings }    from "./AdminSettings";
